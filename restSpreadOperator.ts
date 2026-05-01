@@ -1,5 +1,5 @@
 // Spread operator
-
+ 
 const friends =['Sadia','Nadia']
 const Schoolfriends =['afia','sorna','afrose']
 const Collagefriends =['Sohan','Sabbir']
